@@ -20,6 +20,7 @@ The bot acts like a trusted mentor: clear, motivational, realistic, and always n
 
 Open the app and start chatting — no signup required.
 Link:  https://hope-hub-za.lovable.app
+Documentation link of project: https://capeitinitiative-my.sharepoint.com/:w:/g/personal/lebogang_ndlovu_capaciti_org_za/IQDq8tu5fLZkTbGofm1zirFWAXs4gwZl2zMXvW3jnxtErjA?e=hIHUh8
 
 ---
 
